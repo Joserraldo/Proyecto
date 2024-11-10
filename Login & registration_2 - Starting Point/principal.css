@@ -1,0 +1,46 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#Superior {
+    height: 80px;
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: rgb(233, 164, 39);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    top: -10px;
+    position: relative;
+    z-index: 2; 
+}
+
+#Inferior { 
+    height: 45px;
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: rgb(146, 148, 150);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    top: -25px;
+    position: relative;
+    z-index: 1; 
+    
+}
+.Superior_img{
+    width: 250px;
+    top: -30px;
+    right: -1150px;
+    position: relative;
+}
+.Superior_p{
+    position: relative;
+    top: -140px;
+    color: aliceblue;
+    left: 80px;
+
+}
+.Usuario_img{
+    position: relative;
+    width: 65px;
+    top: -65px;
+    left: -240px;
+}
